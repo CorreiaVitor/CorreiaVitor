@@ -21,7 +21,7 @@
 <hr>
 <div align="left">
  <a href="http://www.github.com/CorreiaVitor">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=vitor-correia&show_bg=1&count_private=true&hide_border=true&show_icons=true&hide_title=false&locale=en&theme=github_dark" alt="vitor-correia's GitHub stats" />
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=CorreiaVitor&show_bg=1&count_private=true&hide_border=true&show_icons=true&hide_title=false&locale=en&theme=github_dark" alt="vitor-correia's GitHub stats" />
  </a>
 </div>
 
